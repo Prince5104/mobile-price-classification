@@ -1,5 +1,3 @@
-# mobile-price-classification
-End-to-end ML project to predict mobile phone price range using logistic regression, SVM, and Random Forest
 # 📱 Mobile Price Range Classification
 
 This is an end-to-end machine learning classification project to predict mobile phone price range (0–3) based on features like RAM, battery power, internal memory, etc.
